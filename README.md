@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Rudy Wijaya, Data Analyst" width="100%">
+<img src="./assets/banner.svg" alt="Rudy Wijaya, Data Analyst" width="100%">
 
 <br>
 
@@ -11,31 +11,30 @@ Jakarta, Indonesia
 <a href="mailto:wijayarudy99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Open_to_work-Data_Analyst-2EA44F?style=for-the-badge" alt="Open to work">
 
+<br><br>
+
+<img src="./assets/stats.svg" alt="Key facts" width="100%">
+
 </div>
 
----
+<br>
 
-## About Me
+<img src="./assets/h-about.svg" alt="About Me" width="100%">
 
 I turn messy, raw data into clear insights that support decisions. I hold a Bachelor of Computer Science (S.Kom) in Informatics with a Data Science concentration from Universitas Mercu Buana. I trained as a Data Analyst at PPKD Jakarta Selatan and built machine learning projects through the IDCamp AI Engineer bootcamp.
 
-| | |
-|---|---|
-| **Focus** | Data analysis, ETL, data cleaning, dashboards, and reporting |
-| **Education** | S.Kom Informatics (Data Science), Universitas Mercu Buana, GPA 3.58/4.00 (Honors) |
-| **Certification** | BNSP Data Analyst Competency Certification |
-| **Training** | PPKD Jakarta Selatan (Data Analyst) and IDCamp (AI Engineer Bootcamp) |
-| **Looking for** | Data Analyst roles |
+> [!NOTE]
+> I'm open to **Data Analyst** roles and ready to turn data into decisions.
 
----
+<br>
 
-## What I Work With
+<img src="./assets/h-skills.svg" alt="What I Work With" width="100%">
 
 <table>
   <tr>
-    <th align="left">Data Analysis & BI</th>
-    <th align="left">Python & Machine Learning</th>
-    <th align="left">Tools & Web</th>
+    <th align="left" width="33%">Data Analysis & BI</th>
+    <th align="left" width="34%">Python & Machine Learning</th>
+    <th align="left" width="33%">Tools & Web</th>
   </tr>
   <tr>
     <td valign="top">
@@ -60,20 +59,46 @@ I turn messy, raw data into clear insights that support decisions. I hold a Bach
   </tr>
 </table>
 
----
+<br>
 
-## Featured Projects
+<img src="./assets/h-projects.svg" alt="Featured Projects" width="100%">
 
-| Project | Domain | What it does | Tech |
-|---|---|---|---|
-| **Banking Customer Experience Analytics (BCXA)** | NLP | Sentiment analysis system for BRImo mobile app reviews, reaching 93.58% accuracy | Python, TensorFlow, Bi-GRU + Attention |
-| **Bitcoin Hourly Price Prediction** | Time Series | Forecasts Bitcoin prices hour by hour with a custom deep learning model | Python, TensorFlow, LSTM |
-| **Automated Brand Recognition System (ABRS)** | Computer Vision | Image classification model that recognizes English Premier League club logos | Python, TensorFlow, CNN |
-| **'Cek Bansos' Sentiment Analysis (Thesis)** | NLP | Performance comparison of RNN-LSTM and Random Forest on app review sentiment | Python, Scikit-Learn, TensorFlow |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Banking Customer Experience Analytics (BCXA)</b><br>
+      <img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square" alt="NLP"><br><br>
+      Sentiment analysis system for BRImo mobile app reviews, reaching 93.58% accuracy.<br><br>
+      <sub>Python · TensorFlow · Bi-GRU + Attention</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Bitcoin Hourly Price Prediction</b><br>
+      <img src="https://img.shields.io/badge/Time_Series-7B2CBF?style=flat-square" alt="Time Series"><br><br>
+      Forecasts Bitcoin prices hour by hour with a custom deep learning model.<br><br>
+      <sub>Python · TensorFlow · LSTM</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Automated Brand Recognition System (ABRS)</b><br>
+      <img src="https://img.shields.io/badge/Computer_Vision-D97706?style=flat-square" alt="Computer Vision"><br><br>
+      Image classification model that recognizes English Premier League club logos.<br><br>
+      <sub>Python · TensorFlow · CNN</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>'Cek Bansos' Sentiment Analysis (Thesis)</b><br>
+      <img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square" alt="NLP"><br><br>
+      Performance comparison of RNN-LSTM and Random Forest on app review sentiment.<br><br>
+      <sub>Python · Scikit-Learn · TensorFlow</sub>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## Tech Stack
+<img src="./assets/h-stack.svg" alt="Tech Stack" width="100%">
+
+<div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-1F3864?style=flat-square&logo=powerbi&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-1F3864?style=flat-square&logo=looker&logoColor=white)
@@ -91,20 +116,24 @@ I turn messy, raw data into clear insights that support decisions. I hold a Bach
 ![JavaScript](https://img.shields.io/badge/JavaScript-1F3864?style=flat-square&logo=javascript&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-1F3864?style=flat-square&logo=wordpress&logoColor=white)
 
----
+</div>
 
-## Education & Training
+<br>
+
+<img src="./assets/h-education.svg" alt="Education and Training" width="100%">
 
 - **Universitas Mercu Buana**: S.Kom, Informatics (Data Science), 2019–2024, GPA 3.58/4.00 (Honors)
 - **PPKD Jakarta Selatan**: Data Analyst Training Program (Intensive), 2026
 - **IDCamp (Indosat Ooredoo Hutchison)**: AI Engineer Bootcamp (Scholarship), 2025–2026
 - **BNSP**: Data Analyst Competency Certification
 
----
+<br>
+
+<img src="./assets/h-contact.svg" alt="Let's Connect" width="100%">
 
 <div align="center">
 
-### Let's Connect
+<br>
 
 I'm looking for a **Data Analyst** role where I can turn data into decisions.<br>
 Reach me on [LinkedIn](https://linkedin.com/in/rudywijayaa) or at **wijayarudy99@gmail.com**.
