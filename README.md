@@ -16,7 +16,7 @@
 
 I turn messy, raw data into clear insights that support decisions. I'm an Informatics graduate (S.Kom, Data Science, GPA 3.58/4.00) from Universitas Mercu Buana, trained as a Data Analyst at PPKD Jakarta Selatan, and I've built machine learning projects through the IDCamp AI Engineer apprenticeship.
 
-- Built a **Power BI fleet analytics dashboard** for PT Transjakarta from raw operational data
+- Built an end-to-end **Power BI dashboard** from raw operational data in an intensive Data Analyst program (confidential data, not shared publicly)
 - Experienced in **ETL, data cleaning, and EDA** with SQL and Python
 - Delivered projects in **time series forecasting, NLP, and computer vision**
 - Holder of a **BNSP Data Analyst competency certification**
@@ -27,7 +27,6 @@ I turn messy, raw data into clear insights that support decisions. I'm an Inform
 
 | Project | What it does | Tech |
 |---|---|---|
-| **PT Transjakarta Fleet Analytics Dashboard** | Operational dashboard tracking bus wait times, route efficiency, and KPIs from thousands of raw transport records | Power BI, ETL, Data Cleaning |
 | **Bitcoin Hourly Price Prediction** | Time series model that forecasts Bitcoin prices hour by hour | Python, TensorFlow, LSTM |
 | **BRImo Review Sentiment Analysis** | End-to-end NLP pipeline that classifies the sentiment of BRImo mobile app reviews | Python, TensorFlow, Bi-GRU + Attention |
 | **EPL Club Logo Classifier** | Image classification model that recognizes English Premier League club logos | Python, TensorFlow, CNN |
