@@ -26,34 +26,7 @@ I turn messy, raw data into clear insights that support decisions. I hold a Bach
 
 <img src="./assets/h-skills.svg" alt="What I Work With" width="100%">
 
-<table width="100%">
-  <tr>
-    <th align="left" width="33%">Data Analysis & BI</th>
-    <th align="left" width="34%">Python & Machine Learning</th>
-    <th align="left" width="33%">Tools & Web</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      SQL (PostgreSQL, MySQL)<br>
-      Power BI, Looker Studio<br>
-      ETL and data cleaning<br>
-      Exploratory data analysis<br>
-      KPI reporting
-    </td>
-    <td valign="top">
-      Pandas, NumPy<br>
-      Scikit-Learn, TensorFlow<br>
-      Time series forecasting<br>
-      NLP and sentiment analysis<br>
-      Computer vision
-    </td>
-    <td valign="top">
-      Git and GitHub<br>
-      HTML, CSS, JavaScript<br>
-      WordPress
-    </td>
-  </tr>
-</table>
+<img src="./assets/skills.svg" alt="Data Analysis and BI: SQL (PostgreSQL, MySQL), Power BI, Looker Studio, ETL and data cleaning, EDA, KPI reporting. Python and Machine Learning: Pandas, NumPy, Scikit-Learn, TensorFlow, time series forecasting, NLP, computer vision. Tools: Git and GitHub, HTML, CSS, JavaScript, WordPress" width="100%">
 
 <br>
 
