@@ -1,65 +1,95 @@
-<h1 align="center">Hi, I'm Rudy Wijaya</h1>
+<div align="center">
 
-<p align="center">
-  <b>Data Analyst</b> · Data Science Graduate · BNSP-Certified Data Analyst<br>
-  Jakarta, Indonesia · Open to work
-</p>
+<img src="./banner.svg" alt="Rudy Wijaya, Data Analyst" width="100%">
 
-<p align="center">
-  <a href="https://linkedin.com/in/rudywijayaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:wijayarudy99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<br>
+
+**Informatics Graduate (Data Science Concentration)  ·  BNSP-Certified Data Analyst**<br>
+Jakarta, Indonesia
+
+<a href="https://linkedin.com/in/rudywijayaa"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:wijayarudy99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Open_to_work-Data_Analyst-2EA44F?style=for-the-badge" alt="Open to work">
+
+</div>
 
 ---
 
 ## About Me
 
-I turn messy, raw data into clear insights that support decisions. I'm an Informatics graduate (S.Kom, Data Science, GPA 3.58/4.00) from Universitas Mercu Buana, trained as a Data Analyst at PPKD Jakarta Selatan, and I've built machine learning projects through the IDCamp AI Engineer bootcamp.
+I turn messy, raw data into clear insights that support decisions. I hold a Bachelor of Computer Science (S.Kom) in Informatics with a Data Science concentration from Universitas Mercu Buana. I trained as a Data Analyst at PPKD Jakarta Selatan and built machine learning projects through the IDCamp AI Engineer bootcamp.
 
-- Built an end-to-end **Power BI dashboard** from raw operational data in an intensive Data Analyst program (confidential data, not shared publicly)
-- Experienced in **ETL, data cleaning, and EDA** with SQL and Python
-- Delivered projects in **time series forecasting, NLP, and computer vision**
-- Holder of a **BNSP Data Analyst competency certification**
+| | |
+|---|---|
+| **Focus** | Data analysis, ETL, data cleaning, dashboards, and reporting |
+| **Education** | S.Kom Informatics (Data Science), Universitas Mercu Buana, GPA 3.58/4.00 (Honors) |
+| **Certification** | BNSP Data Analyst Competency Certification |
+| **Training** | PPKD Jakarta Selatan (Data Analyst) and IDCamp (AI Engineer Bootcamp) |
+| **Looking for** | Data Analyst roles |
+
+---
+
+## What I Work With
+
+<table>
+  <tr>
+    <th align="left">Data Analysis & BI</th>
+    <th align="left">Python & Machine Learning</th>
+    <th align="left">Tools & Web</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      SQL (PostgreSQL, MySQL)<br>
+      Power BI, Looker Studio<br>
+      ETL and data cleaning<br>
+      Exploratory data analysis<br>
+      KPI reporting
+    </td>
+    <td valign="top">
+      Pandas, NumPy<br>
+      Scikit-Learn, TensorFlow<br>
+      Time series forecasting<br>
+      NLP and sentiment analysis<br>
+      Computer vision
+    </td>
+    <td valign="top">
+      Git and GitHub<br>
+      HTML, CSS, JavaScript<br>
+      WordPress
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| **Bitcoin Hourly Price Prediction** | Time series model that forecasts Bitcoin prices hour by hour | Python, TensorFlow, LSTM |
-| **BRImo Review Sentiment Analysis** | End-to-end NLP pipeline that classifies the sentiment of BRImo mobile app reviews | Python, TensorFlow, Bi-GRU + Attention |
-| **EPL Club Logo Classifier** | Image classification model that recognizes English Premier League club logos | Python, TensorFlow, CNN |
-| **'Cek Bansos' Sentiment Analysis (Thesis)** | Performance comparison of RNN-LSTM and Random Forest on app review sentiment | Python, Scikit-Learn, TensorFlow |
+| Project | Domain | What it does | Tech |
+|---|---|---|---|
+| **Banking Customer Experience Analytics (BCXA)** | NLP | Sentiment analysis system for BRImo mobile app reviews, reaching 93.58% accuracy | Python, TensorFlow, Bi-GRU + Attention |
+| **Bitcoin Hourly Price Prediction** | Time Series | Forecasts Bitcoin prices hour by hour with a custom deep learning model | Python, TensorFlow, LSTM |
+| **Automated Brand Recognition System (ABRS)** | Computer Vision | Image classification model that recognizes English Premier League club logos | Python, TensorFlow, CNN |
+| **'Cek Bansos' Sentiment Analysis (Thesis)** | NLP | Performance comparison of RNN-LSTM and Random Forest on app review sentiment | Python, Scikit-Learn, TensorFlow |
 
 ---
 
 ## Tech Stack
 
-**Data Analysis & BI**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Python & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Tools & Web**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-1F3864?style=flat-square&logo=powerbi&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-1F3864?style=flat-square&logo=looker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F3864?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1F3864?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F3864?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1F3864?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1F3864?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1F3864?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F3864?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1F3864?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1F3864?style=flat-square&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1F3864?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1F3864?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F3864?style=flat-square&logo=javascript&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-1F3864?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
@@ -72,7 +102,11 @@ I turn messy, raw data into clear insights that support decisions. I'm an Inform
 
 ---
 
-## Let's Connect
+<div align="center">
 
-I'm looking for a **Data Analyst** role where I can turn data into decisions.
+### Let's Connect
+
+I'm looking for a **Data Analyst** role where I can turn data into decisions.<br>
 Reach me on [LinkedIn](https://linkedin.com/in/rudywijayaa) or at **wijayarudy99@gmail.com**.
+
+</div>
