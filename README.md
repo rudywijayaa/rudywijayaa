@@ -26,42 +26,34 @@ I turn messy, raw data into clear insights that support decisions. I hold a Bach
 
 <img src="./assets/h-skills.svg" alt="What I Work With" width="100%">
 
-<img src="./assets/skills.svg" alt="Data Analysis and BI: SQL (PostgreSQL, MySQL), Power BI, Looker Studio, ETL and data cleaning, EDA, KPI reporting. Python and Machine Learning: Pandas, NumPy, Scikit-Learn, TensorFlow, time series forecasting, NLP, computer vision. Tools: Git and GitHub, HTML, CSS, JavaScript, WordPress" width="100%">
+**Data Analysis & BI**<br>
+SQL (PostgreSQL, MySQL) · Power BI · Looker Studio · ETL and data cleaning · Exploratory data analysis · KPI reporting
+
+**Python & Machine Learning**<br>
+Pandas · NumPy · Scikit-Learn · TensorFlow · Time series forecasting · NLP and sentiment analysis · Computer vision
+
+**Tools & Web**<br>
+Git and GitHub · HTML, CSS, JavaScript · WordPress
 
 <br>
 
 <img src="./assets/h-projects.svg" alt="Featured Projects" width="100%">
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>Banking Customer Experience Analytics (BCXA)</b><br>
-      <img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square" alt="NLP"><br><br>
-      Sentiment analysis system for BRImo mobile app reviews, reaching 93.58% accuracy.<br><br>
-      <sub>Python · TensorFlow · Bi-GRU + Attention</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Bitcoin Hourly Price Prediction</b><br>
-      <img src="https://img.shields.io/badge/Time_Series-7B2CBF?style=flat-square" alt="Time Series"><br><br>
-      Forecasts Bitcoin prices hour by hour with a custom deep learning model.<br><br>
-      <sub>Python · TensorFlow · LSTM</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Automated Brand Recognition System (ABRS)</b><br>
-      <img src="https://img.shields.io/badge/Computer_Vision-D97706?style=flat-square" alt="Computer Vision"><br><br>
-      Image classification model that recognizes English Premier League club logos.<br><br>
-      <sub>Python · TensorFlow · CNN</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>'Cek Bansos' Sentiment Analysis (Thesis)</b><br>
-      <img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square" alt="NLP"><br><br>
-      Performance comparison of RNN-LSTM and Random Forest on app review sentiment.<br><br>
-      <sub>Python · Scikit-Learn · TensorFlow</sub>
-    </td>
-  </tr>
-</table>
+> **Banking Customer Experience Analytics (BCXA)** &nbsp; ![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)<br>
+> Sentiment analysis system for BRImo mobile app reviews, reaching 93.58% accuracy.<br>
+> <sub>Python · TensorFlow · Bi-GRU + Attention</sub>
+
+> **Bitcoin Hourly Price Prediction** &nbsp; ![Time Series](https://img.shields.io/badge/Time_Series-7B2CBF?style=flat-square)<br>
+> Forecasts Bitcoin prices hour by hour with a custom deep learning model.<br>
+> <sub>Python · TensorFlow · LSTM</sub>
+
+> **Automated Brand Recognition System (ABRS)** &nbsp; ![Computer Vision](https://img.shields.io/badge/Computer_Vision-D97706?style=flat-square)<br>
+> Image classification model that recognizes English Premier League club logos.<br>
+> <sub>Python · TensorFlow · CNN</sub>
+
+> **'Cek Bansos' Sentiment Analysis (Thesis)** &nbsp; ![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)<br>
+> Performance comparison of RNN-LSTM and Random Forest on app review sentiment.<br>
+> <sub>Python · Scikit-Learn · TensorFlow</sub>
 
 <br>
 
