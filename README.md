@@ -14,7 +14,7 @@
 
 ## About Me
 
-I turn messy, raw data into clear insights that support decisions. I'm an Informatics graduate (S.Kom, Data Science, GPA 3.58/4.00) from Universitas Mercu Buana, trained as a Data Analyst at PPKD Jakarta Selatan, and I've built machine learning projects through the IDCamp AI Engineer apprenticeship.
+I turn messy, raw data into clear insights that support decisions. I'm an Informatics graduate (S.Kom, Data Science, GPA 3.58/4.00) from Universitas Mercu Buana, trained as a Data Analyst at PPKD Jakarta Selatan, and I've built machine learning projects through the IDCamp AI Engineer bootcamp.
 
 - Built an end-to-end **Power BI dashboard** from raw operational data in an intensive Data Analyst program (confidential data, not shared publicly)
 - Experienced in **ETL, data cleaning, and EDA** with SQL and Python
@@ -66,8 +66,8 @@ I turn messy, raw data into clear insights that support decisions. I'm an Inform
 ## Education & Training
 
 - **Universitas Mercu Buana**: S.Kom, Informatics (Data Science), 2019–2024, GPA 3.58/4.00 (Honors)
-- **PPKD Jakarta Selatan**: Data Analyst Trainee (Intensive Fellowship), 2026
-- **IDCamp (Indosat Ooredoo Hutchison)**: AI Engineer Trainee (Apprenticeship), 2025–2026
+- **PPKD Jakarta Selatan**: Data Analyst Training Program (Intensive), 2026
+- **IDCamp (Indosat Ooredoo Hutchison)**: AI Engineer Bootcamp (Scholarship), 2025–2026
 - **BNSP**: Data Analyst Competency Certification
 
 ---
