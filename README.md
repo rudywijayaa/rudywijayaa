@@ -11,10 +11,6 @@ Jakarta, Indonesia
 <a href="mailto:wijayarudy99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <img src="https://img.shields.io/badge/Open_to_work-Data_Analyst-2EA44F?style=for-the-badge" alt="Open to work">
 
-<br><br>
-
-<img src="./assets/stats.svg" alt="Key facts" width="100%">
-
 </div>
 
 <br>
@@ -30,7 +26,7 @@ I turn messy, raw data into clear insights that support decisions. I hold a Bach
 
 <img src="./assets/h-skills.svg" alt="What I Work With" width="100%">
 
-<table>
+<table width="100%">
   <tr>
     <th align="left" width="33%">Data Analysis & BI</th>
     <th align="left" width="34%">Python & Machine Learning</th>
@@ -63,7 +59,7 @@ I turn messy, raw data into clear insights that support decisions. I hold a Bach
 
 <img src="./assets/h-projects.svg" alt="Featured Projects" width="100%">
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <b>Banking Customer Experience Analytics (BCXA)</b><br>
